@@ -1,6 +1,5 @@
 # Banking System
 
-![Banking System](demo.png)
 
 A simple web application for managing basic banking operations such as viewing customers, transferring money, and tracking transaction history.
 
